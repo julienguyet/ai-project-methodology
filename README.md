@@ -1,7 +1,7 @@
 churn_prediction
 ==============================
 
-A hands on project on churn prediction to discover the best practice of a machine learning project (code versioning, reproducibility, documentation, tracking with ML Flow, etc.)
+A hands on project on churn prediction to discover the best practice of a machine learning project (code versioning, reproducibility, documentation, tracking with ML Flow, etc.) by Malika Matissa, Preetha Pallavi, and Julien Guyet. 
 
 Project Organization
 ------------
