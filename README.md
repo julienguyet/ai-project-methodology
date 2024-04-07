@@ -14,7 +14,8 @@ Project Organization
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details.
     │
-    ├── models             <- Trained and serialized models: encoder and model joblib files to needed to run the predictions on fresh data.
+    ├── models             <- Trained and serialized models: encoder and model joblib files
+                              needed to run the predictions on fresh data.
     │
     ├── notebooks          <- Jupyter notebooks. Execute Ecommerce-final.ipynb to run the prediction job.
     │
