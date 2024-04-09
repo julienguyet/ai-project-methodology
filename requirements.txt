@@ -1,5 +1,5 @@
 # local package
--e .
+#-e .
 
 # external requirements
 pip==23.3.1
