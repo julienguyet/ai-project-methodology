@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mali/ai-project-methodology/mlflow/package_code/mlruns/0/95ed03ff08b94ac3bc2765df8a7ada20/artifacts
+end_time: 1713053921723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95ed03ff08b94ac3bc2765df8a7ada20
+run_name: loud-frog-327
+run_uuid: 95ed03ff08b94ac3bc2765df8a7ada20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713053906273
+status: 3
+tags: []
+user_id: Mali

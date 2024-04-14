@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713057183368
+current_stage: None
+description: null
+last_updated_timestamp: 1713057183368
+name: log_reg_model
+run_id: ab60f4bc5ced4488a19afcc4b819f4c1
+run_link: null
+source: 0/ab60f4bc5ced4488a19afcc4b819f4c1/artifacts/churn_model
+status: READY
+status_message: null
+storage_location: 0/ab60f4bc5ced4488a19afcc4b819f4c1/artifacts/churn_model
+user_id: null
+version: 8

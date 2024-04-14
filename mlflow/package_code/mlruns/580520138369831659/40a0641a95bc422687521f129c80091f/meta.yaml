@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mali/ai-project-methodology/mlflow/package_code/mlruns/580520138369831659/40a0641a95bc422687521f129c80091f/artifacts
+end_time: 1713059141270
+entry_point_name: ''
+experiment_id: '580520138369831659'
+lifecycle_stage: active
+run_id: 40a0641a95bc422687521f129c80091f
+run_name: suave-fowl-11
+run_uuid: 40a0641a95bc422687521f129c80091f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713059123884
+status: 3
+tags: []
+user_id: Mali

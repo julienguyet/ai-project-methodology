@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713056397030
+current_stage: None
+description: null
+last_updated_timestamp: 1713056397030
+name: log_reg_model
+run_id: 437380cc946041bf839bc6a20d62f632
+run_link: null
+source: file:///C:/Users/Mali/ai-project-methodology/mlflow/package_code/mlruns/580520138369831659/437380cc946041bf839bc6a20d62f632/artifacts/churn_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Mali/ai-project-methodology/mlflow/package_code/mlruns/580520138369831659/437380cc946041bf839bc6a20d62f632/artifacts/churn_model
+user_id: null
+version: 1
