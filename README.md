@@ -14,8 +14,13 @@ A hands on project on churn prediction to discover the best practice of a machin
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details.
     │
-    ├── models             <- Trained and serialized models: encoder and model joblib files
-                              needed to run the predictions on fresh data.
+    ├── mlflow             <- Contains metadata and artifacts for MLflow experiments, providing a structured 
+                              approach to manage and track machine learning experiments.
+        ├── mlruns         <- Stores logged parameters, metrics, and run metadata.
+        ├── package_code   <- Contains the machine learning project organized as an MLflow project.
+    │
+    ├── models             <- Trained and serialized models: encoder and model joblib files needed to run the 
+                              predictions on fresh data.
     │
     ├── notebooks          <- Jupyter notebooks. Execute Ecommerce-final.ipynb to run the prediction job.
     │
