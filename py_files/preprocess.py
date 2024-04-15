@@ -3,6 +3,16 @@ from sklearn.preprocessing import OneHotEncoder
 from joblib import dump
 
 def preprocess(data: pd.DataFrame) -> pd.DataFrame:
+
+    '''
+    This function preprocess data for training. A pandas dataframe is expected as argument, and it will return the dataframe 
+    with applied modifications. 
+    In short the function will:
+        - Fill in missing values with the median
+        - Encode categorical variables using One-Hot encoding from sklearn
+        - Save the encoder for inference
+    '''
+    
     categorical_columns = ['PreferredLoginDevice', 'PreferredPaymentMode', 'Gender', 'PreferedOrderCat', 'MaritalStatus']
     numerical_columns = ['Tenure', 'CityTier', 'WarehouseToHome', 'HourSpendOnApp', 'NumberOfDeviceRegistered', 
                          'SatisfactionScore', 'NumberOfAddress', 'Complain', 'OrderAmountHikeFromlastYear', 

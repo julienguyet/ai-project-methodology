@@ -5,6 +5,12 @@ from sklearn.metrics import accuracy_score, classification_report
 
 
 def build_model(data: pd.DataFrame) -> dict:
+
+    '''
+    This function builds the Machine Learning Model. A pandas dataframe is expected as argument, and it will return a dictionnary with performance metrics.
+    A Logistic Regression with an LBFGS solver is at use here. 
+    '''
+
     X = data.drop(columns='Churn')
     y = data['Churn']
     
