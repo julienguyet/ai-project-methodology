@@ -12,7 +12,8 @@ A hands on project on churn prediction to discover the best practice of a machin
     ├── data
     │   ├── Dataset       <- Where to store complete dataset to be used for prediction job.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details.
+    ├── docs               <- A Sphinx project to see code documentation. Open the index.html file to see it:
+                            ai-project-methodology/docs/build/html/index.html
     │
     ├── mlflow             <- Contains metadata and artifacts for MLflow experiments, providing a structured 
                               approach to manage and track machine learning experiments.
